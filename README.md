@@ -1,16 +1,9 @@
 # image_to_text
 
-A new Flutter project.
+Image to Text.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+An simple flutter app to extract text from images
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+To rum the app follow Steps 1 - Download the files from github 2 - Open project in Android Studio or Visual studio code 3 - From Android Studio: Click Packages get in the action ribbon at the top of pubspec. yaml . From VS Code: Click Get Packages located in right side of the action ribbon at the top of pubspec. yaml. OR 4 - Open terminal and run flutter pub get 5 - The App is ready to Run!
